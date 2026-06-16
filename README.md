@@ -1,0 +1,1 @@
+# BeautyPulse-AI-Makeup-Product-Success-Prediction-Consumer-Intelligence-Platform
