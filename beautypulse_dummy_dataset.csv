@@ -1,0 +1,201 @@
+product_id,product_name,brand,category,price_usd,rating,review_count,ingredients,sample_review,successful_product
+1,Ultra Lipstick,Rare Beauty,Foundation,77.76,3.3,425,"Glycerin, Peptides, Vitamin C",Writer country defense grow rich argue few.,0
+2,Radiant Concealer,Rare Beauty,Primer,44.07,4.3,692,"Aloe Vera, Vitamin C, Squalane",Development lay project imagine reason magazine simply nothing because indicate simple.,0
+3,Glow Concealer,NYX,Concealer,21.93,4.7,379,"Niacinamide, Glycerin, Peptides",Person option plant wall recognize boy hard fire never off serious land hospital or claim.,0
+4,Radiant Eyeshadow,e.l.f.,Lipstick,63.87,4.2,87,"Peptides, Niacinamide, Glycerin",Mr computer tell charge still organization example area whom generation.,0
+5,Ultra Mascara,L'Oréal,Mascara,73.33,4.3,512,"Squalane, Niacinamide, Peptides",Rather prevent economy letter American he professional some politics save nothing lead partner suggest turn.,0
+6,Glow Eyeshadow,Fenty Beauty,Concealer,31.49,2.6,1155,"Hyaluronic Acid, Aloe Vera, Squalane",Prepare west stuff economic answer color gas citizen.,0
+7,Perfect Foundation,NYX,Lipstick,56.78,3.2,4692,"Peptides, Hyaluronic Acid, Squalane",Begin film focus institution including entire your current morning.,0
+8,Velvet Foundation,Fenty Beauty,Lipstick,67.11,4.1,4638,"Niacinamide, Vitamin C, Peptides",Word administration east race kid hard enter game author which table professional truth ability wonder store.,0
+9,Perfect Concealer,MAC,Eyeshadow,53.83,3.0,4621,"Squalane, Vitamin C, Hyaluronic Acid",Doctor adult speech financial exactly by your score relationship she while yourself.,0
+10,Perfect Lipstick,MAC,Lipstick,15.8,3.7,1542,"Aloe Vera, Squalane, Glycerin",Establish improve that type rock mean choice sport resource easy.,0
+11,Ultra Concealer,L'Oréal,Foundation,69.98,2.6,3757,"Vitamin C, Peptides, Hyaluronic Acid",Rich they join example bit store easy professional us develop.,0
+12,Velvet Concealer,MAC,Lipstick,55.78,4.3,3114,"Squalane, Aloe Vera, Peptides",Who up bag hot would win partner you.,1
+13,Radiant Concealer,Fenty Beauty,Lipstick,41.19,3.7,1399,"Squalane, Peptides, Glycerin",Cultural decide wish front goal truth stage matter together television star single bring.,0
+14,Velvet Lipstick,e.l.f.,Blush,18.24,2.9,3895,"Aloe Vera, Hyaluronic Acid, Squalane",Impact onto feeling some that section determine later however hour.,0
+15,Velvet Blush,Fenty Beauty,Eyeshadow,53.43,2.9,194,"Peptides, Aloe Vera, Niacinamide",New sign stay doctor let service question during require worker industry.,0
+16,Ultra Blush,Maybelline,Eyeshadow,78.39,4.8,1469,"Aloe Vera, Glycerin, Niacinamide",Year camera whatever some evening fear forget card author series actually defense term dark American thought.,1
+17,Glow Eyeshadow,Fenty Beauty,Foundation,34.63,3.5,666,"Glycerin, Niacinamide, Squalane",Gun name simple including professor particularly much gas explain different grow bill fear perform.,0
+18,Radiant Mascara,e.l.f.,Concealer,41.34,4.5,3075,"Peptides, Vitamin C, Hyaluronic Acid",Quality why field wrong throughout term consider eye participant detail mouth.,1
+19,Perfect Blush,Fenty Beauty,Lipstick,56.84,2.9,2491,"Peptides, Niacinamide, Squalane",Authority wish face increase job we knowledge role.,0
+20,Glow Blush,Rare Beauty,Concealer,18.34,3.0,2874,"Glycerin, Vitamin C, Hyaluronic Acid",Skin hour movie attention standard pull doctor chair suggest.,0
+21,Perfect Foundation,Rare Beauty,Blush,7.16,3.9,1348,"Glycerin, Squalane, Hyaluronic Acid",Early kitchen miss as firm agent big reality over.,0
+22,Ultra Concealer,Rare Beauty,Foundation,37.36,4.5,3462,"Peptides, Aloe Vera, Niacinamide",Technology sign suddenly decade vote who campaign policy scientist must speech forward break.,1
+23,Glow Mascara,NYX,Mascara,45.8,3.2,4123,"Vitamin C, Peptides, Niacinamide",Thank down feel raise culture cell store among business house voice suddenly court shake contain.,0
+24,Ultra Concealer,Rare Beauty,Primer,60.81,3.9,1859,"Peptides, Squalane, Aloe Vera",Write challenge step various pressure probably prepare evening.,0
+25,Glow Mascara,Maybelline,Concealer,38.96,4.3,3827,"Hyaluronic Acid, Squalane, Aloe Vera",Require first plan help debate always tree staff.,1
+26,Perfect Concealer,MAC,Eyeshadow,35.07,4.1,356,"Aloe Vera, Hyaluronic Acid, Vitamin C",Evening politics respond maintain hundred nature president should nation security once hundred color.,0
+27,Glow Concealer,Huda Beauty,Blush,60.59,4.5,1945,"Vitamin C, Hyaluronic Acid, Squalane",Fear old develop tree detail for range list individual scene direction wide blood office.,1
+28,Glow Eyeshadow,NYX,Foundation,11.19,4.2,2041,"Squalane, Niacinamide, Vitamin C",Opportunity ago answer miss become six mission pretty face development painting report meet.,1
+29,Ultra Foundation,NYX,Primer,42.56,4.3,3176,"Peptides, Glycerin, Niacinamide",Dog resource job shoulder number space recent remain way majority speak.,1
+30,Velvet Lipstick,Maybelline,Concealer,5.05,4.2,331,"Aloe Vera, Peptides, Glycerin",Run court spend half foot although over relate at listen morning among.,0
+31,Radiant Concealer,NYX,Concealer,25.29,2.5,130,"Niacinamide, Squalane, Hyaluronic Acid",Physical ahead natural very reveal including woman.,0
+32,Radiant Lipstick,e.l.f.,Blush,24.49,4.2,369,"Squalane, Hyaluronic Acid, Glycerin",Technology light develop kind cold him plan general.,0
+33,Velvet Mascara,L'Oréal,Eyeshadow,60.81,4.7,3514,"Niacinamide, Vitamin C, Hyaluronic Acid",Really station citizen school health activity hand shoulder administration nice short his method hear field stop.,1
+34,Radiant Lipstick,e.l.f.,Concealer,45.09,3.7,4616,"Vitamin C, Hyaluronic Acid, Peptides",Hundred person bank successful American close determine change political medical participant should particular song only.,0
+35,Ultra Concealer,Fenty Beauty,Concealer,69.63,4.6,2492,"Vitamin C, Aloe Vera, Squalane",Interview cell find table player clearly officer many no conference see into expert total court long.,1
+36,Perfect Blush,Rare Beauty,Primer,20.11,4.3,4787,"Squalane, Glycerin, Peptides",Movie form score machine teach live happen serve probably return beautiful suffer fall voice.,1
+37,Perfect Foundation,MAC,Blush,25.65,2.8,2793,"Niacinamide, Aloe Vera, Peptides",Indeed cultural road capital form resource our think serve decision.,0
+38,Radiant Mascara,Huda Beauty,Mascara,19.28,4.9,4242,"Squalane, Glycerin, Vitamin C",Pattern large low consider city manager operation kind others really with none she.,1
+39,Glow Blush,Maybelline,Blush,37.89,3.0,2332,"Glycerin, Hyaluronic Acid, Squalane",Religious vote industry similar officer around factor you identify party project force paper scene.,0
+40,Glow Foundation,Huda Beauty,Lipstick,59.82,2.9,170,"Squalane, Glycerin, Aloe Vera",Argue with candidate travel use keep growth idea pay serious require.,0
+41,Glow Blush,Maybelline,Foundation,23.57,2.6,3432,"Squalane, Niacinamide, Glycerin",Dinner can race when building agree low factor manage piece indeed conference.,0
+42,Ultra Concealer,Huda Beauty,Primer,8.33,3.7,1446,"Peptides, Aloe Vera, Niacinamide",High personal class case suffer hold Mr themselves drive likely.,0
+43,Radiant Concealer,L'Oréal,Lipstick,31.17,3.7,3532,"Vitamin C, Niacinamide, Hyaluronic Acid",Report range unit music act security a sell standard use.,0
+44,Ultra Mascara,Huda Beauty,Mascara,37.04,4.2,1309,"Squalane, Vitamin C, Hyaluronic Acid",Consumer indicate increase mission six lawyer rest particular issue middle agency.,1
+45,Glow Lipstick,Huda Beauty,Eyeshadow,71.67,3.4,940,"Glycerin, Peptides, Niacinamide",Prepare method wife hot approach there center piece participant machine quite wall send.,0
+46,Glow Primer,NYX,Primer,43.07,2.8,2940,"Squalane, Aloe Vera, Hyaluronic Acid",Past experience serious argue who husband government message risk night live late boy spend.,0
+47,Ultra Lipstick,NYX,Eyeshadow,65.64,2.9,326,"Hyaluronic Acid, Glycerin, Vitamin C",Learn star range information action born shoulder here them Congress paper.,0
+48,Ultra Foundation,e.l.f.,Eyeshadow,12.23,2.5,2693,"Vitamin C, Hyaluronic Acid, Glycerin",Bad heavy heart investment voice draw yourself.,0
+49,Ultra Eyeshadow,Maybelline,Mascara,68.78,3.4,3984,"Vitamin C, Niacinamide, Peptides",Want thousand get because fire see fine.,0
+50,Velvet Lipstick,Fenty Beauty,Blush,9.74,3.5,4487,"Vitamin C, Glycerin, Squalane",Evidence plant program send food mention nothing political effort.,0
+51,Perfect Foundation,Rare Beauty,Foundation,50.87,2.8,4654,"Squalane, Aloe Vera, Peptides",Dream nice role remember town if section interest sport.,0
+52,Velvet Eyeshadow,e.l.f.,Concealer,23.33,4.4,1579,"Hyaluronic Acid, Aloe Vera, Squalane",Painting personal third sit star between our day chair hear small.,1
+53,Ultra Blush,e.l.f.,Foundation,17.51,2.7,2403,"Glycerin, Hyaluronic Acid, Niacinamide",Forget capital us environment defense material idea include firm.,0
+54,Radiant Concealer,L'Oréal,Foundation,37.27,4.8,3101,"Vitamin C, Niacinamide, Glycerin",Mention only maintain year interesting certainly statement determine everybody.,1
+55,Velvet Lipstick,Rare Beauty,Foundation,42.55,4.6,549,"Hyaluronic Acid, Peptides, Niacinamide",I account south pass wish table writer four computer sometimes.,0
+56,Glow Concealer,NYX,Mascara,65.41,3.9,3643,"Hyaluronic Acid, Glycerin, Peptides",Issue your sense speak poor nation item who choice single only exist.,0
+57,Perfect Concealer,Huda Beauty,Lipstick,10.75,3.0,2795,"Peptides, Niacinamide, Hyaluronic Acid",President region pull difficult window perform edge job onto glass.,0
+58,Ultra Foundation,Fenty Beauty,Concealer,32.99,2.9,2974,"Niacinamide, Squalane, Vitamin C",Person they structure method seven main senior thus guy hour base near administration believe music left.,0
+59,Glow Mascara,L'Oréal,Primer,38.65,4.5,814,"Peptides, Vitamin C, Glycerin",Full prove kind from total travel experience wall himself run source address treat treatment box make.,0
+60,Ultra Concealer,L'Oréal,Blush,60.28,4.2,1997,"Vitamin C, Niacinamide, Squalane",Car fire material send member how help age authority staff few old.,1
+61,Ultra Primer,MAC,Primer,22.31,4.6,1359,"Glycerin, Squalane, Vitamin C",Ever party about hard particularly factor city raise movement ground understand shake.,1
+62,Perfect Foundation,Maybelline,Eyeshadow,43.59,2.7,3863,"Hyaluronic Acid, Squalane, Aloe Vera",Car how notice model trial hospital industry sea employee hope wife field sport exist meeting.,0
+63,Perfect Blush,L'Oréal,Mascara,65.17,4.4,1040,"Peptides, Aloe Vera, Glycerin",Rich want activity particularly admit determine want bed.,1
+64,Perfect Blush,Huda Beauty,Foundation,40.2,4.0,3778,"Glycerin, Aloe Vera, Hyaluronic Acid",Know nothing everything artist medical investment light machine keep maybe develop exist collection case ever.,0
+65,Glow Eyeshadow,e.l.f.,Primer,76.99,3.4,320,"Squalane, Vitamin C, Glycerin",Including range bring agent check new if short western cold evening program against situation.,0
+66,Ultra Eyeshadow,L'Oréal,Blush,22.03,4.2,382,"Hyaluronic Acid, Niacinamide, Vitamin C",Back painting still market notice few wife book company finish talk age join thing.,0
+67,Ultra Mascara,MAC,Foundation,78.42,4.7,827,"Hyaluronic Acid, Squalane, Vitamin C",Modern wall would hear daughter teach cut performance pressure foot religious.,0
+68,Ultra Foundation,e.l.f.,Lipstick,78.95,4.3,2674,"Niacinamide, Vitamin C, Hyaluronic Acid",Debate dinner yard per chance check around fill first window dark way five mention dream rule.,1
+69,Ultra Primer,L'Oréal,Lipstick,17.67,3.8,4339,"Squalane, Peptides, Glycerin",Enjoy matter rise conference rock character cause person party matter car.,0
+70,Glow Primer,Maybelline,Eyeshadow,29.76,2.7,4144,"Niacinamide, Glycerin, Vitamin C",Production rest Mr nation professional else with form new image few including mention kind.,0
+71,Glow Foundation,Fenty Beauty,Lipstick,64.77,4.2,3497,"Peptides, Hyaluronic Acid, Glycerin",Employee yes talk pick see never ago tough.,1
+72,Velvet Concealer,L'Oréal,Mascara,64.33,4.7,3068,"Niacinamide, Peptides, Squalane",Citizen paper kitchen certain sister must book statement.,1
+73,Ultra Concealer,Huda Beauty,Blush,51.44,3.8,890,"Niacinamide, Hyaluronic Acid, Peptides",Five stuff sport everybody face keep high sea whose.,0
+74,Glow Lipstick,e.l.f.,Mascara,51.15,3.1,1868,"Hyaluronic Acid, Peptides, Aloe Vera",Southern increase answer drive oil pull big send these idea difference structure various prepare tough.,0
+75,Velvet Lipstick,Fenty Beauty,Foundation,52.19,3.4,138,"Vitamin C, Glycerin, Niacinamide",Gun firm window store support rate act decide air require.,0
+76,Velvet Blush,L'Oréal,Foundation,64.91,4.2,2193,"Glycerin, Hyaluronic Acid, Vitamin C",Happen event behavior live above TV behind hope level point growth what.,1
+77,Velvet Eyeshadow,NYX,Eyeshadow,25.77,4.4,908,"Hyaluronic Acid, Glycerin, Niacinamide",Speech foreign born born baby career degree develop statement push laugh affect defense.,0
+78,Perfect Mascara,NYX,Blush,54.61,3.0,4581,"Hyaluronic Acid, Peptides, Glycerin",Green investment talk election such school nor huge.,0
+79,Radiant Primer,Huda Beauty,Lipstick,74.6,3.8,3490,"Vitamin C, Niacinamide, Aloe Vera",Ground agreement wish material much according forget down relate.,0
+80,Ultra Foundation,Rare Beauty,Eyeshadow,50.41,3.6,1509,"Hyaluronic Acid, Squalane, Peptides",Just attorney wait drug their clear current.,0
+81,Perfect Eyeshadow,Fenty Beauty,Primer,64.36,4.1,1989,"Vitamin C, Glycerin, Squalane",Letter specific boy later western red perform cause control ground investment perform.,0
+82,Radiant Blush,Rare Beauty,Primer,19.83,3.5,2946,"Peptides, Squalane, Niacinamide",Store about difference property benefit next draw any school face seven apply.,0
+83,Radiant Primer,e.l.f.,Lipstick,22.37,4.2,2206,"Hyaluronic Acid, Aloe Vera, Glycerin",Wonder national door civil customer data find resource involve week result dog appear.,1
+84,Perfect Mascara,L'Oréal,Eyeshadow,29.55,3.4,786,"Vitamin C, Peptides, Aloe Vera",Others paper easy some let industry call firm matter.,0
+85,Perfect Concealer,e.l.f.,Foundation,27.68,3.7,4495,"Aloe Vera, Peptides, Niacinamide",Direction easy prepare hair power let successful capital find example movement.,0
+86,Glow Foundation,e.l.f.,Concealer,77.5,4.8,2531,"Niacinamide, Vitamin C, Squalane",My ok price song make get country capital.,1
+87,Ultra Blush,L'Oréal,Mascara,35.8,3.8,1566,"Glycerin, Niacinamide, Squalane",Will hard test wear born before whole approach oil under degree sit less great.,0
+88,Perfect Blush,NYX,Concealer,16.04,4.7,3266,"Hyaluronic Acid, Niacinamide, Peptides",Win piece young church never mind way claim coach couple open myself here beyond compare fight.,1
+89,Glow Eyeshadow,Maybelline,Blush,9.61,4.4,1454,"Aloe Vera, Glycerin, Peptides",Experience including law wrong Mr reach ever each body pick among if exactly author see.,1
+90,Radiant Lipstick,e.l.f.,Blush,5.28,3.1,535,"Squalane, Hyaluronic Acid, Niacinamide",Father protect power admit law product toward language above guess sport those sport.,0
+91,Radiant Concealer,e.l.f.,Blush,78.52,4.9,1650,"Squalane, Vitamin C, Hyaluronic Acid",Family term military family third take friend leg some himself born part.,1
+92,Radiant Foundation,NYX,Primer,38.2,4.2,678,"Hyaluronic Acid, Glycerin, Peptides",Agent space window chance son series over along north speak life various.,0
+93,Perfect Concealer,NYX,Concealer,5.02,4.3,1268,"Hyaluronic Acid, Peptides, Vitamin C",Company middle put film buy great opportunity measure nearly quality cover again traditional local alone.,1
+94,Radiant Blush,Fenty Beauty,Lipstick,62.7,4.0,541,"Hyaluronic Acid, Aloe Vera, Squalane",Society huge minute provide glass out decade ready responsibility group bed single.,0
+95,Radiant Foundation,Rare Beauty,Mascara,68.35,5.0,979,"Aloe Vera, Glycerin, Vitamin C",Congress evidence party response dark product rise see woman good agent whether girl rather business.,0
+96,Radiant Primer,Rare Beauty,Foundation,60.13,4.3,2914,"Squalane, Peptides, Hyaluronic Acid",Attorney choice thus line expert card business resource true forget.,1
+97,Glow Concealer,Maybelline,Lipstick,51.52,3.5,1175,"Vitamin C, Squalane, Glycerin",A factor different meeting half say technology learn still decide whatever assume process.,0
+98,Velvet Mascara,NYX,Concealer,63.0,4.1,3831,"Squalane, Peptides, Niacinamide",Term put street for office again lawyer guess.,0
+99,Radiant Mascara,e.l.f.,Eyeshadow,45.01,3.0,1768,"Glycerin, Hyaluronic Acid, Vitamin C",Send scene sing decide thank claim cold together it between take arm study all.,0
+100,Glow Foundation,Fenty Beauty,Primer,57.03,3.9,3282,"Niacinamide, Hyaluronic Acid, Aloe Vera",Something medical study day tonight hold without choose water.,0
+101,Glow Concealer,Rare Beauty,Primer,19.21,3.1,1647,"Niacinamide, Squalane, Vitamin C",Act training strong back live authority city benefit sing plan ready performance.,0
+102,Velvet Eyeshadow,Rare Beauty,Blush,62.96,2.7,4819,"Aloe Vera, Peptides, Glycerin",Next different question determine fall actually strategy begin believe fund job certain model hour.,0
+103,Perfect Concealer,L'Oréal,Foundation,15.19,3.3,335,"Glycerin, Peptides, Aloe Vera",Option take ten billion try fall high ever leg purpose action.,0
+104,Radiant Concealer,L'Oréal,Eyeshadow,37.9,3.5,322,"Vitamin C, Hyaluronic Acid, Peptides",Exist team have nearly with Republican trade research maintain note page clearly student choose and.,0
+105,Velvet Foundation,Huda Beauty,Primer,24.91,3.0,2216,"Peptides, Glycerin, Squalane",Board than million turn allow about standard watch service.,0
+106,Glow Foundation,e.l.f.,Primer,78.6,4.7,1693,"Vitamin C, Peptides, Niacinamide",As especially economy position attention benefit operation event trade important society mind already stuff.,1
+107,Perfect Foundation,Maybelline,Mascara,64.22,2.8,644,"Hyaluronic Acid, Peptides, Squalane",Though guess which lose low available good yet those upon power.,0
+108,Radiant Foundation,NYX,Lipstick,78.58,3.2,4107,"Squalane, Niacinamide, Peptides",Five concern administration soon form in material eye identify law news site.,0
+109,Velvet Eyeshadow,Huda Beauty,Concealer,29.76,3.9,3231,"Aloe Vera, Vitamin C, Niacinamide",Tv few story movement tax red same.,0
+110,Glow Blush,NYX,Lipstick,44.29,3.1,453,"Vitamin C, Hyaluronic Acid, Squalane",Expert enjoy such six direction partner interest even form.,0
+111,Glow Blush,e.l.f.,Primer,37.25,2.9,4379,"Glycerin, Vitamin C, Squalane",Product very especially such eat theory expect past Republican before director.,0
+112,Perfect Mascara,Maybelline,Eyeshadow,61.07,4.0,1070,"Vitamin C, Squalane, Peptides",Tv marriage manager raise view kid weight nature.,0
+113,Radiant Foundation,Fenty Beauty,Concealer,11.12,4.8,2739,"Squalane, Glycerin, Hyaluronic Acid",True church hope claim child ability blue myself television budget cause onto pretty question.,1
+114,Velvet Blush,Fenty Beauty,Blush,66.18,4.0,4187,"Vitamin C, Aloe Vera, Hyaluronic Acid",Personal room pretty identify experience against carry page say rate suffer meeting media no.,0
+115,Radiant Lipstick,Huda Beauty,Eyeshadow,73.34,4.3,3320,"Squalane, Niacinamide, Hyaluronic Acid",Effort energy leg Mrs military look building bill pretty color.,1
+116,Radiant Mascara,NYX,Mascara,22.86,3.6,1935,"Squalane, Niacinamide, Aloe Vera",Share suffer cold serious meeting treatment middle foot record five build.,0
+117,Radiant Lipstick,Rare Beauty,Eyeshadow,72.86,4.2,887,"Peptides, Vitamin C, Aloe Vera",Finish camera his thousand front act might conference challenge nothing.,0
+118,Glow Lipstick,Huda Beauty,Concealer,51.63,2.7,4521,"Aloe Vera, Vitamin C, Squalane",Trial industry far seem because hope anything lawyer.,0
+119,Radiant Blush,e.l.f.,Lipstick,75.1,3.4,2608,"Vitamin C, Squalane, Hyaluronic Acid",Eye general account senior sometimes smile development tonight participant provide occur.,0
+120,Glow Mascara,e.l.f.,Eyeshadow,50.65,5.0,1297,"Peptides, Aloe Vera, Squalane",Result one few course night between build particular.,1
+121,Velvet Primer,Maybelline,Foundation,25.6,3.9,4618,"Glycerin, Aloe Vera, Squalane",Or drop too scientist camera writer until per per them garden federal.,0
+122,Ultra Foundation,L'Oréal,Mascara,26.1,3.3,1822,"Niacinamide, Aloe Vera, Hyaluronic Acid",Pm set since focus according cost theory other human growth factor.,0
+123,Ultra Eyeshadow,Fenty Beauty,Primer,72.82,3.9,3785,"Squalane, Peptides, Niacinamide",Employee bad early miss PM probably upon think consumer really family institution owner.,0
+124,Ultra Eyeshadow,L'Oréal,Primer,75.93,4.5,1915,"Vitamin C, Squalane, Glycerin",Message moment catch other though above beautiful statement family reduce senior.,1
+125,Velvet Concealer,Maybelline,Blush,72.18,2.8,3331,"Aloe Vera, Vitamin C, Niacinamide",Might onto wrong bad Mr face likely choice indicate even.,0
+126,Radiant Blush,MAC,Blush,58.97,4.1,3808,"Aloe Vera, Peptides, Glycerin",Owner six resource on myself miss trip power.,0
+127,Perfect Concealer,MAC,Lipstick,63.59,4.6,2343,"Hyaluronic Acid, Vitamin C, Squalane",Fire apply a tend serve follow time democratic trial.,1
+128,Perfect Eyeshadow,NYX,Lipstick,64.32,2.8,2250,"Peptides, Vitamin C, Glycerin",Exactly response doctor nearly view may federal.,0
+129,Ultra Foundation,Maybelline,Foundation,60.41,4.3,1631,"Peptides, Hyaluronic Acid, Aloe Vera",Let including hair open since big film give attack detail authority fish.,1
+130,Perfect Lipstick,MAC,Primer,78.0,3.7,3094,"Hyaluronic Acid, Squalane, Glycerin",Leg citizen skin data professor popular size community away would challenge matter eat push.,0
+131,Glow Concealer,L'Oréal,Blush,8.02,4.6,1721,"Vitamin C, Hyaluronic Acid, Glycerin",Them finish bill figure left station weight any.,1
+132,Glow Primer,L'Oréal,Concealer,12.87,4.7,4864,"Hyaluronic Acid, Aloe Vera, Niacinamide",View economic partner go hotel firm instead.,1
+133,Velvet Concealer,NYX,Foundation,23.66,4.4,1176,"Vitamin C, Glycerin, Niacinamide",Difference I part realize several hospital city collection.,1
+134,Perfect Mascara,Rare Beauty,Lipstick,31.26,3.4,2546,"Squalane, Aloe Vera, Vitamin C",Their wall forward organization impact phone Mrs change reveal character.,0
+135,Ultra Eyeshadow,Huda Beauty,Foundation,40.66,2.7,4830,"Hyaluronic Acid, Niacinamide, Peptides",Seem road wear significant act culture possible election low have poor tonight company know official they.,0
+136,Perfect Lipstick,Fenty Beauty,Foundation,24.85,2.6,1921,"Glycerin, Squalane, Peptides",Position against series too feeling American answer important kid receive just measure father.,0
+137,Ultra Eyeshadow,L'Oréal,Lipstick,48.05,2.7,3149,"Niacinamide, Glycerin, Peptides",Animal within animal not decide firm place food rich decision positive bar few.,0
+138,Velvet Lipstick,Huda Beauty,Lipstick,13.2,2.7,4856,"Aloe Vera, Squalane, Hyaluronic Acid",Produce game help someone forward sound growth chance trade character until those able light.,0
+139,Perfect Blush,Rare Beauty,Blush,26.6,2.6,1736,"Niacinamide, Aloe Vera, Glycerin",Trip total audience only we fight between conference matter only traditional black.,0
+140,Velvet Foundation,Huda Beauty,Blush,35.77,3.8,158,"Hyaluronic Acid, Aloe Vera, Glycerin",Again though understand number none record national successful staff wish down understand over discussion establish beautiful.,0
+141,Glow Concealer,Maybelline,Eyeshadow,72.2,5.0,3901,"Squalane, Peptides, Hyaluronic Acid",Nation easy seven three community training dog room color computer training generation.,1
+142,Radiant Concealer,Rare Beauty,Foundation,47.84,2.8,3706,"Niacinamide, Glycerin, Peptides",Miss stuff note receive room national I range girl minute.,0
+143,Radiant Lipstick,NYX,Lipstick,17.68,3.4,4254,"Niacinamide, Vitamin C, Peptides",Ever certain total everybody here huge whole and.,0
+144,Radiant Mascara,Fenty Beauty,Blush,64.19,4.6,888,"Squalane, Hyaluronic Acid, Vitamin C",A form with fill moment list hand follow he idea little describe reduce and near.,0
+145,Ultra Foundation,NYX,Eyeshadow,68.61,2.6,4953,"Hyaluronic Acid, Vitamin C, Peptides",Together anyone nor shake record budget system simple executive remain card.,0
+146,Velvet Lipstick,Fenty Beauty,Blush,8.33,3.3,581,"Peptides, Hyaluronic Acid, Squalane",Fast specific material PM think nature since use free hundred weight.,0
+147,Glow Lipstick,Fenty Beauty,Lipstick,64.12,3.4,4334,"Squalane, Glycerin, Vitamin C",Popular fact main level pick according media however civil successful anyone himself.,0
+148,Glow Eyeshadow,e.l.f.,Blush,73.95,4.3,1690,"Peptides, Squalane, Aloe Vera",Cup science unit ever person physical without where.,1
+149,Glow Concealer,e.l.f.,Mascara,25.23,4.6,1063,"Aloe Vera, Hyaluronic Acid, Glycerin",Sometimes nation operation enough professor ok behavior fund.,1
+150,Velvet Concealer,Huda Beauty,Concealer,54.7,4.1,2081,"Niacinamide, Vitamin C, Glycerin",Identify class need prove enjoy body reason beat early special bill window cause citizen expert play.,0
+151,Radiant Eyeshadow,Maybelline,Primer,50.56,3.9,1956,"Aloe Vera, Squalane, Niacinamide",College avoid within bit receive century during during PM.,0
+152,Radiant Mascara,Maybelline,Eyeshadow,40.06,5.0,3159,"Aloe Vera, Glycerin, Hyaluronic Acid",Institution how expert yet word involve old create consumer room body energy spring interview.,1
+153,Perfect Primer,Huda Beauty,Foundation,13.18,3.2,2363,"Glycerin, Hyaluronic Acid, Vitamin C",Describe these fall military similar account hospital after north chance those heart throughout carry large.,0
+154,Radiant Eyeshadow,Fenty Beauty,Lipstick,76.95,5.0,4884,"Glycerin, Squalane, Niacinamide",Thing up trouble or money relate reflect behind along free either soldier arm.,1
+155,Ultra Primer,Huda Beauty,Primer,19.48,4.8,4829,"Hyaluronic Acid, Peptides, Squalane",Think indeed participant material what wait feeling allow they put indicate beautiful enough clearly fill receive.,1
+156,Radiant Eyeshadow,NYX,Blush,10.62,3.5,1708,"Squalane, Vitamin C, Niacinamide",Now blue start thousand visit poor table themselves difficult manage money fly usually perform.,0
+157,Velvet Eyeshadow,MAC,Foundation,63.53,3.5,4069,"Hyaluronic Acid, Vitamin C, Squalane",Message where page development campaign strategy behavior listen market act outside.,0
+158,Velvet Foundation,MAC,Primer,58.28,4.8,4708,"Glycerin, Aloe Vera, Peptides",Office want per also skin worker travel remember follow try always.,1
+159,Ultra Primer,Rare Beauty,Eyeshadow,36.4,2.9,3044,"Glycerin, Aloe Vera, Vitamin C",Among indicate citizen early politics maintain bank.,0
+160,Perfect Mascara,Maybelline,Blush,58.25,3.4,2035,"Vitamin C, Hyaluronic Acid, Squalane",Trouble return hand night watch skin onto west certain college yes.,0
+161,Glow Eyeshadow,MAC,Concealer,13.56,3.5,3332,"Peptides, Vitamin C, Squalane",There a heavy over box together might.,0
+162,Ultra Concealer,MAC,Primer,79.27,3.1,3421,"Niacinamide, Peptides, Hyaluronic Acid",Person method protect threat learn real floor cold.,0
+163,Glow Lipstick,Fenty Beauty,Primer,10.18,2.6,3363,"Niacinamide, Aloe Vera, Glycerin",Once no each quickly share responsibility near quite life data look.,0
+164,Glow Concealer,Huda Beauty,Eyeshadow,23.39,2.8,2746,"Hyaluronic Acid, Peptides, Vitamin C",Skill job risk month mouth question hard fill his fire end if protect even.,0
+165,Radiant Foundation,MAC,Mascara,62.45,3.3,3196,"Peptides, Aloe Vera, Squalane",Accept prove its police term door official thousand detail structure available window by election become accept.,0
+166,Glow Foundation,Fenty Beauty,Foundation,22.76,4.8,2105,"Squalane, Aloe Vera, Peptides",Break grow these light keep go education stock arm admit risk.,1
+167,Radiant Concealer,Rare Beauty,Concealer,55.72,4.0,4921,"Glycerin, Hyaluronic Acid, Vitamin C",Management able offer by again start most write question hold Republican risk.,0
+168,Radiant Foundation,MAC,Blush,79.04,4.4,110,"Niacinamide, Peptides, Vitamin C",Animal team difference despite hold international card national spend glass light during here part election.,0
+169,Perfect Mascara,Fenty Beauty,Foundation,45.16,4.9,3318,"Squalane, Vitamin C, Niacinamide",Wide wrong pass else good member campaign grow glass spring.,1
+170,Velvet Lipstick,Huda Beauty,Mascara,50.54,4.2,2098,"Glycerin, Hyaluronic Acid, Vitamin C",Approach foot answer real activity decade eye institution yet reality action traditional.,1
+171,Perfect Concealer,Fenty Beauty,Eyeshadow,43.92,2.8,4680,"Squalane, Vitamin C, Glycerin",Instead forward street service Congress very unit tonight expect let campaign certain.,0
+172,Radiant Concealer,Fenty Beauty,Mascara,41.15,4.8,1526,"Niacinamide, Vitamin C, Glycerin",Along page culture shoulder read spend whether understand example street ready half.,1
+173,Velvet Eyeshadow,Huda Beauty,Mascara,40.23,2.7,3416,"Hyaluronic Acid, Peptides, Aloe Vera",Pm gun yeah government daughter likely company success show author reason seven near.,0
+174,Perfect Primer,MAC,Mascara,27.22,4.6,3321,"Hyaluronic Acid, Niacinamide, Squalane",Term significant raise any music represent rule think imagine realize claim affect.,1
+175,Radiant Eyeshadow,e.l.f.,Mascara,78.69,3.5,2616,"Glycerin, Aloe Vera, Vitamin C",Ability ready crime cause work more simply feel kitchen follow rock.,0
+176,Radiant Concealer,L'Oréal,Concealer,20.14,4.4,1864,"Glycerin, Hyaluronic Acid, Peptides",The magazine pretty really authority us more.,1
+177,Ultra Eyeshadow,MAC,Concealer,52.37,3.6,484,"Niacinamide, Aloe Vera, Glycerin",Actually their security late whole she large fill career quite cell eight very idea.,0
+178,Radiant Eyeshadow,Fenty Beauty,Blush,18.26,3.1,2666,"Glycerin, Vitamin C, Squalane",All behavior lay television stage international meet reflect almost speech paper through movement never laugh sure.,0
+179,Ultra Eyeshadow,e.l.f.,Foundation,62.09,4.5,3284,"Vitamin C, Niacinamide, Glycerin",If machine energy will side perhaps everything level movement theory lay.,1
+180,Velvet Eyeshadow,L'Oréal,Blush,35.11,3.6,4782,"Peptides, Vitamin C, Glycerin",Admit second husband unit civil than discuss little second.,0
+181,Glow Primer,Huda Beauty,Concealer,73.62,4.9,750,"Vitamin C, Glycerin, Niacinamide",Wish clearly effort become month strong should heart production easy.,0
+182,Ultra Lipstick,Fenty Beauty,Lipstick,9.48,4.9,3290,"Squalane, Aloe Vera, Hyaluronic Acid",Thought conference theory edge same tell give free control exactly cell who usually speech mouth quality.,1
+183,Velvet Foundation,MAC,Primer,40.0,2.8,100,"Hyaluronic Acid, Peptides, Squalane",Culture two charge style teach fire give recognize until impact customer.,0
+184,Glow Foundation,e.l.f.,Lipstick,9.21,3.5,3664,"Aloe Vera, Niacinamide, Vitamin C",Article growth world discover situation instead fine level south cold best.,0
+185,Glow Lipstick,e.l.f.,Mascara,64.43,4.2,3698,"Squalane, Vitamin C, Hyaluronic Acid",Drug meet daughter field gas college build knowledge everybody charge whatever reach although same range.,1
+186,Ultra Primer,NYX,Mascara,61.33,4.8,4319,"Niacinamide, Vitamin C, Hyaluronic Acid",Believe itself actually international western answer pull speech market data season.,1
+187,Velvet Eyeshadow,Huda Beauty,Concealer,33.75,3.9,4958,"Aloe Vera, Hyaluronic Acid, Vitamin C",Physical argue know while hour summer head north during husband recently box.,0
+188,Velvet Primer,NYX,Foundation,47.77,3.9,1112,"Aloe Vera, Hyaluronic Acid, Peptides",Operation near dream want production side court total body.,0
+189,Radiant Mascara,e.l.f.,Blush,55.45,4.4,2525,"Aloe Vera, Peptides, Niacinamide",Three arrive similar between discuss it team later represent affect beyond take herself.,1
+190,Velvet Mascara,L'Oréal,Eyeshadow,50.71,3.4,2661,"Vitamin C, Niacinamide, Glycerin",Mind lawyer through then matter less fly because.,0
+191,Radiant Concealer,Fenty Beauty,Primer,68.93,4.9,341,"Vitamin C, Hyaluronic Acid, Niacinamide",Out yeah suffer table offer probably exactly likely get both.,0
+192,Perfect Concealer,Fenty Beauty,Foundation,76.12,3.4,3569,"Hyaluronic Acid, Aloe Vera, Squalane",Environment she week want involve personal industry improve.,0
+193,Glow Blush,Fenty Beauty,Primer,27.51,5.0,1598,"Niacinamide, Hyaluronic Acid, Vitamin C",Main beat affect require top since pay design.,1
+194,Velvet Mascara,NYX,Primer,57.08,3.5,1428,"Peptides, Squalane, Niacinamide",Economic culture finish staff three great take ok reason beat party establish sound list speech.,0
+195,Velvet Primer,e.l.f.,Primer,71.55,3.5,3883,"Peptides, Vitamin C, Aloe Vera",Almost real particular personal there strategy body education mean until song.,0
+196,Ultra Concealer,Huda Beauty,Primer,59.93,3.4,4671,"Aloe Vera, Glycerin, Niacinamide",Family turn it affect age not find subject oil.,0
+197,Radiant Blush,Maybelline,Primer,76.94,4.9,3303,"Peptides, Niacinamide, Squalane",Religious there large show speech sound deal shoulder us remain loss beautiful measure another director however.,1
+198,Velvet Concealer,Rare Beauty,Mascara,17.2,2.8,4148,"Hyaluronic Acid, Peptides, Aloe Vera",Town different central radio pay responsibility field.,0
+199,Ultra Eyeshadow,NYX,Blush,26.27,3.7,2191,"Glycerin, Hyaluronic Acid, Peptides",Traditional quickly song on prove book company finish.,0
+200,Ultra Concealer,Fenty Beauty,Blush,30.39,3.1,4164,"Aloe Vera, Peptides, Hyaluronic Acid",Own he sort page card tough discover memory reflect maybe help.,0
